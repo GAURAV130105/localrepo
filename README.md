@@ -1,2 +1,2 @@
-# this is my file 
-# i am Gaurav Singh Bisht 
+# in github 
+# github repo -> clone -> changes -> add -> commit -> push 
