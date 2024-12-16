@@ -1,2 +1,2 @@
 # in github 
-# github repo -> clone -> changes -> add -> commit -> push 
+# hi learning github day 3
